@@ -18,7 +18,7 @@ core
 
 ##Design
 
-- [ ] **Better Profiles** - Profiles more complete.
+- [x] **Better Profiles** - Profiles more complete.
 - [ ] **Mobile List-items**
 - [ ] **Mobile Profiles**
 
