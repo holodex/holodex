@@ -23,7 +23,7 @@ Holodex is an app for how we relate to people and groups within a network.
 ### Group
 
 - [x] **Image** - User views a group's image.
-- [.] **Name** - User views a group's name.
+- [x] **Name** - User views a group's name.
 - [x] **Relationships graph** - User views a group's relationships as a graph
 - [x] **Relationships list** - User views a group's relationships as a list
 
@@ -43,7 +43,7 @@ Holodex is an app for how we relate to people and groups within a network.
 
 ### List View
 
-- [.] **Relationships** - Use views lists of relationships by type
+- [x] **Relationships** - Use views lists of relationships by type
 - [ ] **Sort by Alphabet** - User sorts list alphabetically by name.
 - [ ] **Contextual Asymmetric Relationships**
 - [ ] **Contextual Symmetric Relationships**
