@@ -1,3 +1,9 @@
+---
+name: Holodex
+sponsor: Mikey
+target: $889.63
+type: Scale
+---
 This bucket is a continuation of our February bucket. We've received $1,110.37 of $2,000 and are seeking $889.63 more for Holodex 0.2. We really appreciate all the love and support. ♡
 
 ## Our progress since last month
