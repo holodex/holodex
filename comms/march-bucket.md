@@ -18,7 +18,7 @@ Over the last month, we've
   - group page includes button controls to toggle showing types of relationships
   - clicking on a person within a group page navigates to person page
   - person page shows list of relationships for that person
-- [brought Nanz on for design](https://github.com/open-app/holodex/issues/16#issuecomment-85870813) with the help of Nanz
+- [brought Nanz on for design](https://github.com/open-app/holodex/issues/16#issuecomment-85870813)
 - [updated our domain models](https://github.com/openvocab/holodex/issues) with the help of Bob and Lynn of [Mikorizal](http://mikorizal.org/), Simon, Mikey, Mix, and Joshua
 - [iterated on our code](https://github.com/holodex/app/pulse/monthly) with the help of Simon, Mikey, Mix, and Joshua
 
