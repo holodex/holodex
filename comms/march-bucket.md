@@ -11,6 +11,7 @@ This bucket is a continuation of our February bucket. We've received $1,110.37 o
 Such month! ⌒(o＾▽＾o)ノ
 
 Over the last month, we've
+
 - purchased [holodex.is](http://holodex.is) and moved our Enspiral deployment to [holodex.enspiral.info](http://holodex.enspiral.info).
 - setup a [top-level GitHub repo with our roadmap for user features](https://github.com/open-app/holodex/issues)
 - setup a #holodex Slack channel
