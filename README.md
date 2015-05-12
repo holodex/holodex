@@ -1,20 +1,28 @@
 # Holodex
 
-Holodex is an [open app](https://github.com/open-app/core) to find and organize people and groups.
+## What Is Holodex?
 
-- shape and size the organic form of your organization
-- peer into and across your surrounding network
-- understand who's wearing what hats in your company
-- dynamically burn and re-build your team
-- control your self-agency within your local group
+Holodex is a directory web app to search, visualize, and organize your human networks. 
 
-We want be your directory within the [Open App Ecosystem](https://github.com/open-app) so other apps can rely on us as the single source of truth for people and groups' profiles, roles, and relationships information. We are not a cryptographic identity vault, that is another app.
+We want to be a modular app within the [Open App Ecosystem](https://github.com/open-app/core), where other apps can rely on us as the single source of truth for people and groups' profile, role, and relationship information. We are not a 'secure identity vault' that provides authentication (who you are), that is for another app.
 
 This repo is the top-level repo for the project. You can find the app code repo [here](https://github.com/holodex/app).
 
-## Features
+### Features
 
-- search for people or groups
-- view person or group details
-- track and traverse relationships
-- track and traverse roles
+- look into and across your human networks to find people
+- understand who's wearing what hats in your group
+- shape, size, and shift the structure of your organization
+- manage responsibilities and accountabilities within your company
+- track relationships amongst you and your peers
+- dynamically burn and re-build your teams on demand
+
+## Who Uses Holodex?
+
+TODO 4 value props from @simontegg
+
+## How To Contribute To Holodex
+
+We welcome all contributions! Yada yada TODO
+
+If you contribute, you'll be added to our Contributors list! Yada yada TODO
