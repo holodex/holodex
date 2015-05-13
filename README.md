@@ -17,10 +17,6 @@ This repo is the top-level repo for the project. You can find the app code repo 
 - track relationships amongst you and your peers
 - dynamically burn and re-build your teams on demand
 
-TODO 4 value props from @simontegg
-
 ## [SCOPE](SCOPE.md)
 
 ## [CONTRIBUTING](./CONTRIBUTING.md)
-
-## [STEWARDS](./STEWARDS.md)
