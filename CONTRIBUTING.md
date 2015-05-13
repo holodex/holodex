@@ -1,6 +1,8 @@
-# Contributing To Holodex
+# Holodex is a JOIN Open Source Project
 
-Our project is like local land stewarded by the [tangata whenua](https://en.wikipedia.org/wiki/Tangata_whenua).
+## What?
+
+This project has stewards and protectors who put aside self-interest to act as Kaitiaki for the whole.
 
 We welcome all contributions, such as but not limited to:
 
@@ -11,13 +13,15 @@ We welcome all contributions, such as but not limited to:
 - documentation
 - tests
 
-If you contribute enough, you'll be invited to join the project stewards and given write-access to the project to contribute more as you see fit!
+If you want to contribute, you're invited to join the project Contributors before we will accept your contribution.
+
+If you contribute enough, you'll be invited to join the project Workers and be asked to contribute more as you see fit!
 
 ## Rules
 
 There are a few basic ground-rules for contributors:
 
-1. **No `--force` pushes** or modifying the Git history in any way.
+1. **No `force` pushes** or modifying the project history in any way.
 1. **Non-master branches** ought to be used for ongoing work.
 1. **External interface changes and significant modifications** ought to be subject to an **internal pull-request** to solicit feedback from other contributors.
 1. Internal pull-requests to solicit feedback are *encouraged* for any other non-trivial contribution but left to the discretion of the contributor.
@@ -25,7 +29,19 @@ There are a few basic ground-rules for contributors:
 
 ## Releases
 
-Declaring formal releases remains the prerogative of the project stewards.
+Declaring formal releases is the prerogative of the project Workers.
+
+## Joining
+
+### Contributors
+
+To join the project Contributors, you must first sign our [Contributor License Agreement](./CLA.md) (CLA). (more info on CLAs [here](https://jacobian.org/writing/contributor-license-agreements/) and [here](http://www.groklaw.net/article.php?story=20110524120303815)). To do this, make a pull request with a single commit adding your details to the `contributors` field in our [`package.json`](./package.json) with a commit message of 'I, <name>, agree to the Holodex Contributor License Agreement.'.
+
+Yada yada TODO
+
+### Workers
+
+To join the project Workers, you first need to be nominated by an existing Worker. Yada yada TODO.
 
 ## Changes to this arrangement
 
