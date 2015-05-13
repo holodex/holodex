@@ -1,6 +1,6 @@
 # Contributor License Agreement
 
-Holodex has a Contributor License Agreement, with the intended purpose of allowing Holodex to update to newer copyleft or copyfarleft licenses as it makes sense to do so. This is not a perfect solution to achieve this purpose, so if anyone has any better ideas [we appreciate suggestions](/issues).
+Holodex has a Contributor License Agreement, with the intended purpose of allowing Holodex to update to newer copyleft or copyfarleft licenses as it makes sense to do so. This is not a perfect solution to achieve this purpose, so if anyone has any better ideas [we appreciate suggestions](https://github.com/open-app/holodex/issues).
 
 ## How To Sign
 
