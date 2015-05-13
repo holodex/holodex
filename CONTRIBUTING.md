@@ -35,13 +35,15 @@ Declaring formal releases is the prerogative of the project Workers.
 
 ### Contributors
 
-To join the project Contributors, you must first sign our [Contributor License Agreement](./CLA.md) (CLA). (more info on CLAs [here](https://jacobian.org/writing/contributor-license-agreements/) and [here](http://www.groklaw.net/article.php?story=20110524120303815)). To do this, make a pull request with a single commit adding your details to the `contributors` field in our [`package.json`](./package.json) with a commit message of 'I, <name>, agree to the Holodex Contributor License Agreement.'.
+To join the project Contributors, you must first sign our [Contributor License Agreement](./CLA.md) (CLA). (more info on CLAs [here](https://jacobian.org/writing/contributor-license-agreements/) and [here](http://www.groklaw.net/article.php?story=20110524120303815)).
 
 Yada yada TODO
 
 ### Workers
 
-To join the project Workers, you first need to be nominated by an existing Worker. Yada yada TODO.
+To join the project Workers, you first need to be nominated by an existing Worker.
+
+Yada yada TODO
 
 ## Changes to this arrangement
 
