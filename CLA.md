@@ -6,15 +6,17 @@ Holodex has a Contributor License Agreement, with the intended purpose of allowi
 
 To sign the Contributor License Agreement, first figure out if you are an individual or legal entity who is making a contribution.
 
-- for individuals, read the [CLA for individuals](./CLA-FOR-INDIVIDUALS)
-- for legal entities, read the [CLA for legal entities](./CLA-FOR-ENTITIES)
+Then read what you are signing
+
+- [for individuals](./CLA-FOR-INDIVIDUALS)
+- [for legal entities](./CLA-FOR-ENTITIES)
     
-Then, to submit your electronic signature:
+Next submit your electronic signature:
 
 1. clone this repository (`git clone https://github.com/open-app/holodex && cd holodex`)
 1. add your contributor details to the `contributors` field in our [`package.json`](./package.json)
 1. stage these new changes (`git add package.json`)
-1. write a commit with a message of 'I, <name>, agree to the Holodex Contributor License Agreement.'
-1. submit a Pull Request with your commit
+1. write a commit with a message of 'I, <name>, agree to the Holodex Contributor License Agreement.' (`git commit -m "I, ..."`)
+1. [create a pull request](https://help.github.com/articles/creating-a-pull-request/) with your commit 
 
 Yay, thanks for becoming a Contributor! :)
