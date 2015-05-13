@@ -1,4 +1,4 @@
-## Contributor Agreement
+# Contributor Agreement
 
 ## Entity Contributor Non-Exclusive License Agreement
 

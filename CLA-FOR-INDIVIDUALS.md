@@ -1,4 +1,4 @@
-## Contributor Agreement
+# Contributor Agreement
 
 ## Individual Contributor Non-Exclusive License Agreement
 
