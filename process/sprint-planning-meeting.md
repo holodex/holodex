@@ -12,8 +12,17 @@
 1. External Roadmap 
 
 ### Code:
-
 1. Pair review current codebase
+
+###schedule regular meetings
+Wednesday: 1-2.30
+
+##Resolving Blocks
+
+
+
+
+
 
 
 
