@@ -37,7 +37,7 @@ https://github.com/ssbc/secure-scuttlebutt/issues/86
  (a) solve the admin burden of maintaining group lists across platforms
  (b) solve the fatigue associated wth keeping user data consistent across platforms
  (c) reduce the development costs of creating software for groups
- (d) eliminates the cost of onboarding a network to the new platform
+ (d) eliminate the cost of onboarding a network to the new platform
  
 2. Users can discover People, groups and connections they were'nt aware of.
  
