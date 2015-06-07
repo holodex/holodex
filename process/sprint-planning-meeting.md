@@ -17,7 +17,23 @@
 ###schedule regular meetings
 Wednesday: 1-2.30
 
-##Resolving Blocks
+###Resolving Blocks
+
+###High-level focus
+Outcome: Holodex data is relevant to users
+1. Outcome: Users can easily update their own data
+1. Outcome 
+
+
+
+
+Tension: When we pull in data from other source, Holodex becomes a visualisation service but not a source of truth
+
+
+Holodex does not impose a global "source of truth". An agents view of truth is subjective. 
+
+
+
 
 
 
