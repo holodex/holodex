@@ -1,7 +1,5 @@
 ## What problems does Holodex aim to solve?
 
-Holodex 
-
 ###Communication and understanding
 
 Its hard to communicate an organisation like Enspiral. Newcomers to fluid, networked organisations find orientation difficult and audiences misunderstand the network as a mysterious 'black box'. Attempts to the map the organsation quickly go out of date when the network reinvents itself every 6 months.
