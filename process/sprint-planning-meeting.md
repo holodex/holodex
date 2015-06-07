@@ -51,13 +51,29 @@ https://github.com/ssbc/secure-scuttlebutt/issues/86
 5 days a week in June. Also doing related Craftworks facilitation. 
 
 
+### Problem identification
 
+#### What is Holodex doing?
 
+Doing venture updates (what we did last period, what we plan to do this period, what we need help with), hosting collaborative workshops, etc.
 
+#### What problems are most important to solve?
 
+Discover mid to high level problems by talking to users with the current app as a reference point.
 
+#### Unknown poduct architecture
 
+### Problem prioritization
 
+@simontegg
 
+1. value propositions
+1. Open App update
+1. internal Enspiral Services update
 
+@ahdinosaur
 
+1. landing page
+1. do user problem discovery process
+1. finish mission and vision (holon-y stuff)
+1. try to understand Holodex product architecture
