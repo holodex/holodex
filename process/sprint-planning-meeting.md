@@ -20,7 +20,7 @@ Wednesday: 1-2.30
 ###Resolving Blocks
 
 ###High-level focus
-Outcome: Holodex data is relevant to users
+**Outcome: Holodex data is relevant to users**
 1. Outcome: Users can easily update their own data
 1. Outcome: User's data updates reactively from other sources
 
@@ -30,7 +30,7 @@ Tension: When we pull in data from other source, Holodex becomes a visualisation
 Holodex does not impose a global "source of truth". An agents view of truth is subjective. 
 https://github.com/ssbc/secure-scuttlebutt/issues/86
 
-Outcome: People understand Holodex is a legit business. 
+**Outcome: People understand Holodex is a legit business.** 
 
 
 
