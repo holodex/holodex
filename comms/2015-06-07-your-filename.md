@@ -4,9 +4,9 @@ Holodex provides
 
 ###Communication and understanding
 
-Its difficult to communicate an organisation like Enspiral. Newcomers to these fluid, networked organisations find orientation difficult and audiences misunderstand the network as a mysterious 'black box'. Attempts to the map the organsation quickly go out of date when the network reinvents itself every 6 months.
+Its hard to communicate an organisation like Enspiral. Newcomers to these fluid, networked organisations find orientation difficult and audiences misunderstand the network as a mysterious 'black box'. Attempts to the map the organsation quickly go out of date when the network reinvents itself every 6 months.
 
-Holodex gives these oganisations beautiful intuitive visualisations that change with the organisation grows. 
+Holodex gives these oganisations beautiful intuitive visualisations of the network that seamlessly update as the organisation grows. 
 
 ###Discovery and search
 Hololdex focuses
