@@ -13,11 +13,11 @@ We welcome all contributions, such as but not limited to:
 
 If you contribute, you'll be invited to join the project.
 
+Holodex aims for autonomous solving of collaborative problems with a common vision.
+
 ## Rules
 
-Holodex aims for aggressive, diverse, and inclusive communities that swarm over a problem landscape.
-
-The rules for how to contribute to Holodex are described by the [Collective Code Construction Contract](http://rfc.zeromq.org/spec:22).
+The rules for how to contribute to Holodex are described by the [Collective Code Construction Contract](http://rfc.zeromq.org/spec:22), but feel free to break the rules if it makes sense to.
 
 ## Philosophy
 
