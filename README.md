@@ -4,7 +4,7 @@
 
 Holodex is a directory web app to search, visualize, and organize your human networks. 
 
-We want to be a modular app within the [Open App Ecosystem](https://github.com/open-app/core), where other apps can rely on us as the single source of truth for people and groups' profile, role, and relationship information. We are not a "secure identity vault" that provides authentication (who you are), that is for another app.
+We want to be a modular app within the [Open App Ecosystem](https://github.com/open-app/core), where other apps can rely on us as the single source of truth for people and groups' profile, role, and relationship information. We are not a "secure identity vault" that provides authentication (who you are as a cryptographic key), that is for another app.
 
 This repo is the top-level repo for the project. You can find the app code repo [here](https://github.com/holodex/app).
 
