@@ -25,6 +25,7 @@ Wednesday: 1-2.30
 1. Outcome: User's data updates reactively from other sources
 
 **Notes:**
+
 Tension: When we pull in data from other source, Holodex becomes a visualisation service but not a source of truth
 
 Holodex does not impose a global "source of truth". An agents view of truth is subjective. 
