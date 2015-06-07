@@ -39,8 +39,14 @@ https://github.com/ssbc/secure-scuttlebutt/issues/86
  (c) reduce the development costs of creating software for groups
  (d) eliminates the cost of onboarding a network to the new platform
  
+2. Users can discover People, groups and connections they were'nt aware of.
+ 
 
+###Capacity assessment
 
+## Simon
+
+## Mikey
 
 
 
