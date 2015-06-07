@@ -45,9 +45,10 @@ https://github.com/ssbc/secure-scuttlebutt/issues/86
 ###Capacity assessment
 
 ## Simon
+2 nights a week in June. Optional weekends. Reassess in July
 
 ## Mikey
-
+5 days a week in June. Also doing related Craftworks facilitation. 
 
 
 
