@@ -2,7 +2,7 @@
 
 ## What?
 
-Holodex is the best **rolodex** for **holons**, where
+Holodex is a **rolodex** for **holons**, where
 
 - a **rolodex** is a simple and powerful interface to discover, understand, and organize personal contacts, and
 - [**holons**](https://blog.dinosaur.is/life-as-a-holon/) are fractal and emergent human networks of people and groups.
