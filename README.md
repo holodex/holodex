@@ -5,7 +5,7 @@
 Holodex is a **rolodex** for **holons**, where
 
 - a **rolodex** is a simple and powerful interface to discover, understand, and organize personal contacts, and
-- [**holons**](https://blog.dinosaur.is/life-as-a-holon/) are fractal and emergent human networks of people and groups.
+- [**holons**](https://blog.dinosaur.is/life-as-a-holon/) are fractal and emergent human networks of people and groups with roles and relationships.
 
 [![snapshot of Holodex](./snaps/holodex0.png)](http://holodex.enspiral.info)
 
