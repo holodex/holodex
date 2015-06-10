@@ -14,14 +14,7 @@ We want to be a modular app within the [Open App Ecosystem](https://github.com/o
 
 This repo is the top-level repo for the project. You can find the app code repo [here](https://github.com/holodex/app).
 
-### Features
-
-- look into and across your human networks to find people
-- understand who's wearing what hats in your group
-- shape, size, and shift the structure of your organization
-- manage responsibilities and accountabilities within your company
-- track relationships amongst you and your peers
-- dynamically burn and re-build your teams on demand
+### [Value Propositions](./process/value-propositions.md)
 
 ## [SCOPE](SCOPE.md)
 
