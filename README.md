@@ -13,7 +13,7 @@ We are a modular app within the [Open App Ecosystem](https://github.com/open-app
 
 This repo is the top-level repo for the project. You can find the app code repo [here](https://github.com/holodex/app).
 
-### [Value Propositions](./process/value-propositions.md)
+### [Value Propositions](./comms/value-propositions.md)
 
 ## [SCOPE](SCOPE.md)
 
