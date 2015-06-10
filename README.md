@@ -4,9 +4,9 @@
 
 Holodex is the best way to discover, understand, and organize the emergence of fractal human networks.
 
-Holodex focuses on being "a _rolodex_ for _holons_", where
-- a _rolodex_ provides a simple and powerful interface to traverse your local contacts, and
-- [_holons_](https://blog.dinosaur.is/life-as-a-holon/) are recursive compositions of people within nested groups.
+Holodex focuses on being "a **rolodex** for **holons**", where
+- a **rolodex** provides a simple and powerful interface to traverse your local contacts, and
+- [**holons**](https://blog.dinosaur.is/life-as-a-holon/) are recursive compositions of people within groups.
 
 [![snapshot of Holodex](./snaps/holodex0.png)](http://holodex.enspiral.info)
 
