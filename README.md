@@ -2,11 +2,10 @@
 
 ## What?
 
-Holodex is the best way to discover, understand, and organize the emergence of fractal human networks.
+Holodex is the best **rolodex** for **holons**, where
 
-Holodex focuses on being "a **rolodex** for **holons**", where
-- a **rolodex** provides a simple and powerful interface to traverse your local contacts, and
-- [**holons**](https://blog.dinosaur.is/life-as-a-holon/) are recursive compositions of people within groups.
+- a **rolodex** is a simple and powerful interface to discover, understand, and organize personal contacts, and
+- [**holons**](https://blog.dinosaur.is/life-as-a-holon/) are fractal and emergent human networks of people and groups.
 
 [![snapshot of Holodex](./snaps/holodex0.png)](http://holodex.enspiral.info)
 
