@@ -1,0 +1,14 @@
+{
+  "name": "holodex",
+  "description": "a directory to search, visualize, and organize your local human networks",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/open-app/holodex.git"
+  },
+  "contributors": [],
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/open-app/holodex/issues"
+  },
+  "homepage": "https://github.com/open-app/holodex"
+}
