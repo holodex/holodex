@@ -1,6 +1,6 @@
 ## Holodex June Update
 
-In March and April, Services funded Mikey and I around $2k total to create a read-only app for managing and visualising group data. You can read more about the problems we are trying to solve [here](https://github.com/open-app/holodex/blob/master/comms/value-propositions.md).
+In March and April, Services funded Mikey and I around $2k total to create a read-only app for managing and visualising group data (thanks!). You can read more about the problems we are trying to solve [here](https://github.com/open-app/holodex/blob/master/comms/value-propositions.md).
 
 ## Where we're at
 
@@ -12,7 +12,7 @@ Mikey will be working on Holodex full time until immigration requires him to get
 
 ## We're we going
 
-Our current plans are to set up a Holodex landing page and do user problem discovery interviews and workshops.
+Our current plans are to set up a Holodex landing page with help from local design interns and do user problem discovery through discussions, interviews and workshops.
 
 ### Short term design and development:
 
