@@ -10,7 +10,7 @@ The demo has 2 features. Navigate between groups and people, and filter the view
 
 Mikey will be working on Holodex full time until immigration requires him to get a paid job (October-ish?). I will work on Holodex part-time through June. In July we may seek paying clients or funding to enable me to increase my commitment.
 
-## We're we going
+## Where we're going
 
 Our current plans are to set up a Holodex landing page with help from local design interns and do user problem discovery through discussions, interviews and workshops.
 
@@ -27,9 +27,11 @@ Without prefiguring the user workshops too much, candidate features for short-te
 
 We're not sure where we're headed, but ideas for medium-term are:
 
-1. Make it possible to edit Holodex data
-1. Pull group data from other apps (e.g. Loomio)
-1. Push group data to other apps (e.g. Loomio)
+1. Make it possible to edit Holodex data, focused either on group members, group admins, or groupware developers.
+  1. Edit your personal data within Holodex
+  1. Edit your group's data within Holodex
+  1. Pull group data from other apps (e.g. Loomio)
+  1. Push group data to other apps (e.g. Loomio)
 
 ### Other possible directions:
 
