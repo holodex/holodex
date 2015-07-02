@@ -39,3 +39,44 @@
 ### privacy
 
 - #34: user can control data privacy
+
+## Flows
+
+1. As a new user without an account,
+  1. Sign up for an account with email and password
+  1. Receive an email with a link containing a signup token
+  1. On token success, be logged in
+1. As a existing user with an account,
+  1. Login to an account with email and password
+  1. On credential success, be logged in
+1. As a user who wants to create a group,
+  1. Create a new group (and become both member and admin of group)
+  1. Enter emails of new members
+1. As a user invited to group,
+  1. Receive an email with a link containing an invite token
+
+## Services
+
+principles:
+
+- token-based authentication (who you are)
+- claims-based identity (what you are)
+- capability-based authorization (what you may do)
+
+protocols:
+- [JSON Web Tokens](http://jwt.io/)
+  - [jsonwebtoken]((https://github.com/auth0/node-jsonwebtoken)
+
+### accounts
+
+[accountdown](https://www.npmjs.com/package/accountdown)([-model](https://www.npmjs.com/package/accountdown-model))
+
+- `GET /accounts` to `users.list`
+- `GET /accounts/:id` to `users.get`
+- `PUT /accounts/:id` to `users.put `
+  - TODO what data is associated with an account? ([revelant auth0 docs](https://auth0.com/docs/api/v2#!/Users/patch_users_by_id))
+
+### agents (identities)
+
+### memberships
+
