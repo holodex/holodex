@@ -15,14 +15,20 @@
 
 ![](http://i.imgur.com/930gpOt.png)
 
-* By popular demand, you can view more details about an agent by hovering over it with the cursor. A tooltip will pop up with a larger avatar image and name. In the future this may have more details (location, interests etc). 
+* By popular demand, you can now view more details about an agent by hovering over it with the cursor. A tooltip will pop up with a larger avatar image and name. In the future this may have more details (location, interests etc). 
 
 ![](http://i.imgur.com/0GQGACU.png)
 
 
 ### Strategy
 
+In no particular order:
 
+1. Develop an MVP.
+2. Get opensource contributors by making the codebase and stack legit and leveraging Mikey's role as Nodeschool Wellington facilitator
+3. Improve what we  already have. Improvements within the current design: mobile responsive, improve search, more details about people and groups, tags etc.
+
+The 
 
 
 ### Team Update
